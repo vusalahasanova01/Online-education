@@ -249,7 +249,7 @@ color:#444;
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    background:url(../contact.jpg.jpg);
+    background:url(./images/contact.jpg.jpg);
     background-size: cover;
     background-position: centre;
     background-attachment: fixed;
@@ -277,7 +277,7 @@ color:#444;
     left:0;
     height:15rem;
     width: 100%;
-    background:(url(../shape.jpg.png));
+    background:(url(./images/contact.jpg.jpg));
     block-size:100rem 15rem;
     filter:drop-shadow(0 -.1rem .1rem rgba(0,0,0 .2));
     animation: animate 10s linear infinite;
@@ -400,7 +400,7 @@ color:#444;
 }
 .teacher{
     text-align:center;
-    background:url(../lesson/teachers.jpg.jfif) no-repeat;
+    background:url(./images/teachers.jpg.jfif) no-repeat;
     background-size:cover;
     background-position:bottom;
 }
